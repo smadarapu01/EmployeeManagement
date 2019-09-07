@@ -46,3 +46,9 @@ long ContractEmployeeSalary()
 {
 	//TO DO
 }
+
+
+void ManagePermissions()
+{
+	//TO DO
+}

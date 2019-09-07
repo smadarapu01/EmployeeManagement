@@ -1,0 +1,11 @@
+/*************************************/
+Release note created By Srinivas 
+/************************************/
+
+
+Fallowing features we are added in this release V1.0
+
+1. Employee Login
+2. Finding Employee Type
+3. Get Employee Salary Detail by EmployeeType
+4. Database Connection
