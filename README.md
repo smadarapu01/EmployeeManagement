@@ -1,6 +1,11 @@
 # EmployeeManagement
 =========================================================================================================
 This document will explains how repository created and project managed along with the detailed steps.
+
+Task 1:
+	Create repository with branches and provide pull permission to another user.
+Task 2:
+	Create versioning to Commit (Tagging)
 =========================================================================================================
 
 
