@@ -75,6 +75,17 @@ Step 13:
 		provided merge comments
 		e.g:
 			git merge master 
+
+Step 14:
+		Switched to hotfix branch and added issues.txt file to track customer issues.
+		Since there are many changes happend in master which are dependent in hotfix brach.
+		so I made rebase master in hotfix.
+		e.g:
+			touch issues.txt
+			git add .
+			git commit -m 'comments'
+			git rebase master
+			
 		
 			
 		
