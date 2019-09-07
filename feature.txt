@@ -1,0 +1,11 @@
+/**********************************************************************************/
+Feature Brach File has list of Enhancements what we are going to work in this branch
+/**********************************************************************************/
+
+
+1. ManagePermission
+2. ManageAttendance
+3. ManageSalary
+4. ManageLeaves
+5. ManageExperience
+
