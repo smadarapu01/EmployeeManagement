@@ -1,0 +1,24 @@
+/*==========================================================================*/
+Title: 		Employee Login Page
+Created: 	Sep 7, 2019
+Author:		Srinivas
+/*==========================================================================*/
+
+bool isUserExists(string _username)
+{
+	return _username = 'Srinivas';
+}
+
+void Login()
+{
+	string username='Srinivas';
+	if(isUserExists(username))
+	{
+		//// TO DO Login Here;
+	}
+	else
+	{
+		/// Not a valid user.
+	}
+}
+
