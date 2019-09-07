@@ -1,0 +1,48 @@
+/*==========================================================================*/
+Title: 		Logged in employee details will managed here
+Created: 	Sep 7, 2019
+Author:		Srinivas
+/*==========================================================================*/
+
+EmployeeType EmployeeTypeValue(int empId)
+{
+	return empId/2 == 0 ? EmployeeType.Perminent : EmployeeType.Contract;
+	
+}
+
+enum EmployeeType
+{
+	Perminent =1,
+	Contract = 2
+}
+
+long Salary(int empId)
+{
+	if(DatabaseConnection)
+	{
+		if(EmployeeTypeValue(empId) == EmployeeType.Perminent)
+		{
+				return PerminentEmployeeSalary();
+		}
+		else
+		{
+				return ContractEmployeeSalary();
+		}
+	}
+}
+
+bool DatabaseConnection
+{
+	return true;
+}
+
+long PerminentEmployeeSalary()
+{
+	//TO DO
+}
+
+
+long ContractEmployeeSalary()
+{
+	//TO DO
+}
