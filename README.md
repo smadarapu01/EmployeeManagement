@@ -18,3 +18,4 @@ Step 3:
 
 Step 4: 
 		Pushing these change to remote repository "EmployeeManagement"
+		git push origin master
