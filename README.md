@@ -59,7 +59,23 @@ Step 10:
 		
 		e.g:
 		git push origin  V1.0 
-						
+		
+Step 11:
+		Switched to feature branch
+		add a file feature.txt and added feature branch enhancements and commited.		
+		 		
+Step 12:
+		Switched to master branch
+		updated EmployeeManagement.txt with ManagePermissions method
+		commited & push to remote repository "EmployeeManagement"
+
+Step 13:
+		Switched to feature branch and merge
+		since feature branch has dependent file which is modified in master branch
+		provided merge comments
+		e.g:
+			git merge master 
+		
 			
 		
 		
