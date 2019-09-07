@@ -1,0 +1,14 @@
+/*==========================================================================*/
+Title: 		To track customer issues on employee management 
+Created: 	Sep 7, 2019
+Author:		Srinivas
+/*==========================================================================*/
+
+Issue1:
+		User is unauthorized
+
+Issue2:
+		Database connection fails 
+
+Issue3:
+		Every employee able to access, permissions not appling	
