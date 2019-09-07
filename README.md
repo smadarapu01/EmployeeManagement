@@ -6,9 +6,11 @@ This document will explains how repository created and project managed along wit
 
 Step 1:
 		Created Private Repository in GitHub name "EmployeeManagement"
+		
 Step 2: 
 		Cloned this repository into my local repository
 		git clone https://github.com/smadarapu01/EmployeeManagement.git
+		
 Step 3:
 		Created Login.txt & EmployeeManagement.txt created in master 
 		touch login.txt
@@ -19,6 +21,7 @@ Step 3:
 Step 4: 
 		Pushing these change to remote repository "EmployeeManagement"
 		git push origin master
+		
 Step 5:
 		Created three branches 
 			1. feature
