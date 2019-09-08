@@ -35,10 +35,12 @@ Step 4:
 		
 Step 5:
 		Created three branches 
+		
 			1. feature
 			2. release
 			3. hotfix
 			4. master (default)
+		
 		e.g:
 		git branch feature
 Step 6: 
