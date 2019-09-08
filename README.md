@@ -29,6 +29,8 @@ Step 3:
 
 Step 4: 
 		Pushing these change to remote repository "EmployeeManagement"
+		
+		e.g.:
 		git push origin master
 		
 Step 5:
@@ -38,13 +40,13 @@ Step 5:
 			3. hotfix
 			4. master (default)
 		e.g:
-			git branch feature
+		git branch feature
 Step 6: 
 		Switched to release branch
 		added release note for V1.0
 		
 		e.g: 
-			git checkout release
+		git checkout release
 Step 7: 			
 		Switched back to master branch and merged with release branch
 		
