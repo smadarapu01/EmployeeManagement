@@ -1,4 +1,4 @@
-# EmployeeManagement
+# Employee Management
 
 This document will explains how repository created and project managed along with the detailed steps.
 
