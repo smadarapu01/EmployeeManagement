@@ -14,11 +14,15 @@ Step 1:
 		
 Step 2: 
 		Cloned this repository into my local repository
+		
+		e.g.:
 		git clone https://github.com/smadarapu01/EmployeeManagement.git
 		
 Step 3:
 		Created Login.txt & EmployeeManagement.txt created in master 
 		touch login.txt
+		
+		e.g.:
 		touch EmployeeManagement.txt
 		git add .
 		git commit -m 'some comments'
@@ -78,18 +82,20 @@ Step 13:
 		Switched to feature branch and merge
 		since feature branch has dependent file which is modified in master branch
 		provided merge comments
+		
 		e.g:
-			git merge master 
+		git merge master 
 
 Step 14:
 		Switched to hotfix branch and added issues.txt file to track customer issues.
 		Since there are many changes happend in master which are dependent in hotfix brach.
 		so I made rebase master in hotfix.
+		
 		e.g:
-			touch issues.txt
-			git add .
-			git commit -m 'comments'
-			git rebase master
+		touch issues.txt
+		git add .
+		git commit -m 'comments'
+		git rebase master
 			
 		
 			
