@@ -1,7 +1,6 @@
-# EmployeeManagement
-=========================================================================================================
+# Employee Management
+
 This document will explains how repository created and project managed along with the detailed steps.
-=========================================================================================================
 
 
 Step 1:
@@ -9,10 +8,12 @@ Step 1:
 		
 Step 2: 
 		Cloned this repository into my local repository
+		
 		git clone https://github.com/smadarapu01/EmployeeManagement.git
 		
 Step 3:
 		Created Login.txt & EmployeeManagement.txt created in master 
+		
 		touch login.txt
 		touch EmployeeManagement.txt
 		git add .
@@ -20,14 +21,17 @@ Step 3:
 
 Step 4: 
 		Pushing these change to remote repository "EmployeeManagement"
+		
 		git push origin master
 		
 Step 5:
 		Created three branches 
+		
 			1. feature
 			2. release
 			3. hotfix
 			4. master (default)
+		
 		e.g:
 			git branch feature
 Step 6: 
@@ -73,6 +77,7 @@ Step 13:
 		Switched to feature branch and merge
 		since feature branch has dependent file which is modified in master branch
 		provided merge comments
+		
 		e.g:
 			git merge master 
 		
